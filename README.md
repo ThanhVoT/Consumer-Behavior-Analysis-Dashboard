@@ -7,3 +7,7 @@ As an Ecommerce Analyst, I was tasked with analyzing our consumers behavior with
 ## Executive Summary
 This analysis provide a summary of customers across different markets and their top purchases category, revenue per country, leading customers, and sales trend from total of 1,000 cases and 28 rows of data. Notably, the total purchases for the top categories decline significantly in the fourth quarter of 2024. However, categories such as Luxury Goods, Jewelry & Accessories, and Sports & Outdoors see a noticeable increase in sales during this period. These insights suggest a product categories shift throughout the year, and consumers' behavior are affected seasonaly. This explains the suddent spike in sales during November as people starts to holiday shop and purchasing gifts.
 ## Insights Deep-Dive
+- **Top 5 Sales Over Time**
+
+  - The top 5 categories throughout the year of 2024 are **Jewerly & Accessories, Sports & Outdoors, Electronics, Software & Apps, and Toys & Games.**
+    
