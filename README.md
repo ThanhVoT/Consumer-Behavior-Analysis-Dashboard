@@ -10,13 +10,13 @@ This analysis provides a summary of customers across different markets and their
 - **Top 5 Sales Over Time**
 
   - The top 5 categories throughout the year of 2024 are **Jewerly & Accessories, Sports & Outdoors, Electronics, Software & Apps, and Toys & Games.**
-  - Toys & Games was the number one category spending with **$3,410.**
-  - There is a noticible shift in top purchase categories during fourth quarter - especially in November. While Jewerly & Accessories, Software & Apps, Sports & Outdoors continue to be on top, **Health Care and Health Supplements** emerge as new contenders for the top spots.
+  - Toys & Games was the number one spending category with **$3,410.**
+  - There is a noticible shift in top purchase categories during the fourth quarter - especially in November. While Jewerly & Accessories, Software & Apps, Sports & Outdoors continue to be on top, **Health Care and Health Supplements** emerged as new contenders for the top spots.
   - Companies have an opportunity to capitalize on shifting consumer behavior across seasons by understanding where customers are spending money each month.
 
 - **Revenue By Country**
 
-  - China lead the top ranking with a total of **$47,881** in total spending for the year of 2024.
+  - China leads the rankings with a total of **$47,881** in total spending for the year of 2024.
   - China consistently remained among the top-ranking countries throughout all four quarters of 2024.
   - Surprisingly, the Philippines ranked first in average spending per customer, with **$302**.
   - The data suggests that China's consistent lead in the rankings is largely due to its disproportionately high number of customers. If countries like the Philippines were able to **increase the number of spending customers, they could potentially rise to the top of the chart**.
@@ -35,15 +35,15 @@ This analysis provides a summary of customers across different markets and their
   
 - **Target underperforming markets**: Companies should target countries with consumers who have strong spending potential, like the Philippines, to drive increased product purchases.
   
-- **Incentivize spending with rewards**: Make products more affordable or implement a reward program for customers with lower spending power to encourage purchases and attract additional customers.
+- **Incentivize spending with rewards**: Make products more affordable, or implement a reward program for customers with lower spending power to encourage purchases and attract additional customers.
 
 ## Assumptions
 - Focusing on customer spending habits will result in more personalized marketing strategies and higher conversion rates.
-- By focusing on countries with high spending potential but low current engagement, companies can significantly increase market penetration.
-- Offering more affordable products or reward programs will encourage customers with lower spending power to make purchases, increasing sales volume.
+- By focusing on countries with high spending potential, but low current engagement, companies can significantly increase market penetration.
+- Offering more affordable products, or reward programs, will encourage customers with lower spending power to make purchases, increasing sales volume.
 
 ## Considerations
 >I welcome further feedback on the project and suggestions for improvement to enhance future project outcomes.
-- The original dataset contains 28 rows of data, but some were excluded for irrelevance to the project. There may be additional rows that are not utilized and could potentially be removed.
+- The original dataset contains 28 rows of data, but some were excluded due to irrelevance to the project. There may be additional rows that are not utilized and could potentially be removed.
 - The original data only contained **Location** which on closer inspection, referred to either a state or province within a country. I created a new reference sheet containing all countries and used **VLOOKUP** to group each location under its corresponding country to help with data manipulation and visualization.
 - To look at all the sheet tabs and what I did, on Excel, go to **File > Options > Advanced**, then scroll down and make sure **"Show sheet tabs"** is checked.
