@@ -43,6 +43,6 @@ This analysis provide a summary of customers across different markets and their 
 - Offering more affordable products or reward programs will encourage customers with lower spending power to make purchases, increasing sales volume.
 
 ## Considerations
-- The original dataset contains 28 rows of data, but some were excluded for irrelevance to the project. There may be additional rows that are not utilized and could potentially be removed. > I welcome further feedback on the project and suggestions for improvement to enhance future project outcomes.
-
-
+>I welcome further feedback on the project and suggestions for improvement to enhance future project outcomes.
+- The original dataset contains 28 rows of data, but some were excluded for irrelevance to the project. There may be additional rows that are not utilized and could potentially be removed.
+- The original data only contained **Location** which on closer inspection, referred to either a state or province within a country. I created a new reference sheet containing all countries and used **VLOOKUP** to group each location under its corresponding country to help with data manipulation and visualization. 
