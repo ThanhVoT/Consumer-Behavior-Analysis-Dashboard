@@ -17,4 +17,5 @@ This analysis provide a summary of customers across different markets and their 
 - **Revenue By Country**
 
   - China lead the top ranking with a total of **$47,881** in total spending for the year of 2024.
-  - The average 
+  - China consistently remained among the top-ranking countries throughout all four quarters of 2024.
+  - Surprisingly, the Philippines ranked first in average spending per customer, with **$302.**
