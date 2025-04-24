@@ -32,7 +32,7 @@ This analysis provide a summary of customers across different markets and their 
 
 ## Recommendations
 - **Capitalize on spending patterns**: Analyze where customers are spending their money each month to strategically capitalize on all revenue opportunities and maximize overall profits.
-- 
+  
 - **Target underperforming markets**: Companies should target countries with consumers who have strong spending potential, like the Philippines, to drive increased product purchases.
-- 
+  
 - **Incentivize spending with rewards**: Make products more affordable or implement a reward program for customers with lower spending power to encourage purchases and attract additional customers. 
