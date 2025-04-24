@@ -23,8 +23,8 @@ This analysis provide a summary of customers across different markets and their 
 
 - **Top Spending Class**
 
-  - The top spending class of customers with a college degree are Bachelors with a total of **$96,786.12**.
-  - 
+  - Among customers with a college degree, those holding a Bachelor’s degree make up the top spending group, with a total of **$96,786.12**.
+  - Those that are still in High School make up the top spending **in-store** with a total of **$34,825.77**.
 
    
 ## Recommendations
