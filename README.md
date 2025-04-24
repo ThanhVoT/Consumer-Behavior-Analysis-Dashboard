@@ -3,9 +3,9 @@
 ![Image](https://github.com/user-attachments/assets/1d80ecea-55a8-4727-9a32-5556eb20a2ff)
 
 ## Background
-As an Ecommerce Analyst, I was tasked with analyzing our consumers behavior within various market to develop a reports and dashboard for our stakeholders. **This report has 28 rows of data from the year 2024 and covering 1,000 customers' demographics, spending behavior, and the type of products they buy.** The goal was designed to help the stakeholders gained insights into the behavior of consumers throughout different categories. This analysis focused on key areas such as product purchased, expenses, and key customers to provide strategic insights to drive decision-making.
+As an Ecommerce Analyst, I was tasked with analyzing our consumers behavior within various market to develop a reports and dashboard for our stakeholders. **This report has 21 rows of data from the year 2024 and covering 1,000 customers' demographics, spending behavior, and the type of products they buy.** The goal was designed to help the stakeholders gained insights into the behavior of consumers throughout different categories. This analysis focused on key areas such as product purchased, expenses, and key customers to provide strategic insights to drive decision-making.
 ## Executive Summary
-This analysis provide a summary of customers across different markets and their top purchases category, revenue per country, leading customers, and sales trend from total of 1,000 cases and 28 rows of data. Notably, the total purchases for the top categories decline significantly in the fourth quarter of 2024. However, categories such as Luxury Goods, Jewelry & Accessories, and Sports & Outdoors see a noticeable increase in sales during this period. These insights suggest a product categories shift throughout the year, and consumers' behavior are affected seasonaly. This explains the suddent spike in sales during November as people starts to holiday shop and purchasing gifts.
+This analysis provide a summary of customers across different markets and their top purchases category, revenue per country, leading customers, and sales trend from total of 1,000 cases and 21 rows of data. Notably, the total purchases for the top categories decline significantly in the fourth quarter of 2024. However, categories such as Luxury Goods, Jewelry & Accessories, and Sports & Outdoors see a noticeable increase in sales during this period. These insights suggest a product categories shift throughout the year, and consumers' behavior are affected seasonaly. This explains the suddent spike in sales during November as people starts to holiday shop and purchasing gifts.
 ## Insights Deep-Dive
 - **Top 5 Sales Over Time**
 
@@ -35,4 +35,14 @@ This analysis provide a summary of customers across different markets and their 
   
 - **Target underperforming markets**: Companies should target countries with consumers who have strong spending potential, like the Philippines, to drive increased product purchases.
   
-- **Incentivize spending with rewards**: Make products more affordable or implement a reward program for customers with lower spending power to encourage purchases and attract additional customers. 
+- **Incentivize spending with rewards**: Make products more affordable or implement a reward program for customers with lower spending power to encourage purchases and attract additional customers.
+
+## Assumptions
+- Focusing on customer spending habits will result in more personalized marketing strategies and higher conversion rates.
+- By focusing on countries with high spending potential but low current engagement, companies can significantly increase market penetration.
+- Offering more affordable products or reward programs will encourage customers with lower spending power to make purchases, increasing sales volume.
+
+## Considerations
+- The original dataset contains 28 rows of data, but some were excluded for irrelevance to the project. There may be additional rows that are not utilized and could potentially be removed. > I welcome further feedback on the project and suggestions for improvement to enhance future project outcomes.
+
+
