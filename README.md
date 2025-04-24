@@ -28,6 +28,6 @@ This analysis provide a summary of customers across different markets and their 
   - Not surprisingly, customers who are currently attending college or hold a college degree rank among the top spending groups.
   - High school customers rank higher than both Master’s and Bachelor’s degree holders when it comes to planned purchases.
   - Customers with a Master’s degree rank first in need-based purchases, with a total of **$26,083.17**.
-  - This 
-   
+  - The data speaks for itself upon closer examination. **Customers with a Master’s degree are more likely to carry larger debt, making need-based spending essential**. In contrast, **high school customers may have limited financial resources, making planned purchases a priority—explaining why they rank first in that category**.
+
 ## Recommendations
