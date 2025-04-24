@@ -20,5 +20,11 @@ This analysis provide a summary of customers across different markets and their 
   - China consistently remained among the top-ranking countries throughout all four quarters of 2024.
   - Surprisingly, the Philippines ranked first in average spending per customer, with **$302**.
   - The data suggests that China's consistent lead in the rankings is largely due to its disproportionately high number of customers. If countries like the Philippines were able to **increase the number of spending customers, they could potentially rise to the top of the chart**.
- 
+
+- **Top Spending Customer and their habits**
+
+  - The difference in highest customer spending between China and Poland is only **$0.58**.
+  - 
+
+   
 ## Recommendations
