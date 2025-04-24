@@ -24,7 +24,10 @@ This analysis provide a summary of customers across different markets and their 
 - **Top Spending Class**
 
   - Among customers with a college degree, those holding a Bachelor’s degree make up the top spending group, with a total of **$96,786.12**.
-  - Those that are still in High School make up the top spending **in-store** with a total of **$34,825.77**.
-
+  - Those that are still in High School make up the top spending **In-Store** with a total of **$34,825.77**.
+  - Not surprisingly, customers who are currently attending college or hold a college degree rank among the top spending groups.
+  - High school customers rank higher than both Master’s and Bachelor’s degree holders when it comes to planned purchases.
+  - Customers with a Master’s degree rank first in need-based purchases, with a total of **$26,083.17**.
+  - This 
    
 ## Recommendations
