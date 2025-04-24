@@ -10,4 +10,5 @@ This analysis provide a summary of customers across different markets and their 
 - **Top 5 Sales Over Time**
 
   - The top 5 categories throughout the year of 2024 are **Jewerly & Accessories, Sports & Outdoors, Electronics, Software & Apps, and Toys & Games.**
+  - There is a noticible shift in top purchase categories during fourth quarter - especially in November. While Jewerly & Accessories, Software & Apps, Sports & Outdoors continue to be on top, **Health Care and Health Supplements** emerge as new contenders for the top spots. 
     
