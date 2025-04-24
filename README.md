@@ -31,3 +31,6 @@ This analysis provide a summary of customers across different markets and their 
   - The data speaks for itself upon closer examination. **Customers with a Master’s degree are more likely to carry larger debt, making need-based spending essential**. In contrast, **high school customers may have limited financial resources, making planned purchases a priority—explaining why they rank first in that category**.
 
 ## Recommendations
+- **Capitalize on spending patterns**: Analyze where customers are spending their money each month to strategically capitalize on all revenue opportunities and maximize overall profits.
+- **Target underperforming markets**: Companies should target countries with consumers who have strong spending potential, like the Philippines, to drive increased product purchases.
+- **Incentivize spending with rewards**: Make products more affordable or implement a reward program for customers with lower spending power to encourage purchases and attract additional customers. 
