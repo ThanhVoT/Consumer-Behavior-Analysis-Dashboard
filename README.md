@@ -11,7 +11,7 @@ This analysis provides a summary of customers across different markets and their
 
   - The top 5 categories throughout the year of 2024 are **Jewerly & Accessories, Sports & Outdoors, Electronics, Software & Apps, and Toys & Games.**
   - Toys & Games was the number one spending category with **$3,410.**
-  - There is a noticible shift in top purchase categories during the fourth quarter - especially in November. While Jewerly & Accessories, Software & Apps, Sports & Outdoors continue to be on top, **Health Care and Health Supplements** emerged as new contenders for the top spots.
+  - There is a noticeable shift in top purchase categories during the fourth quarter - especially in November. While Jewerly & Accessories, Software & Apps, Sports & Outdoors continue to be on top, **Health Care and Health Supplements** emerged as new contenders for the top spots.
   - Companies have an opportunity to capitalize on shifting consumer behavior across seasons by understanding where customers are spending money each month.
 
 - **Revenue By Country**
